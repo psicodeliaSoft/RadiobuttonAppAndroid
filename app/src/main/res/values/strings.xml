@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadiobuttonAppAndroid</string>
+    <string name="numero_uno">Ingrese Cifra</string>
+    <string name="numero_dos">Ingrese Cifra</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="txt_sumar">Sumar</string>
+    <string name="txt_restar">Restar</string>
+    <string name="button_calcular">Calcular</string>
+</resources>
